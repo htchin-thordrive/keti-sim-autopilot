@@ -11,6 +11,8 @@ This repository is open-source and applicable to driverless vehicles.
 ### File Structure
 
     .
-    └── src                     # Source files
-    └── LICENSE
+    ├── src                     # Source files
+    │   └── main.py
+    ├── LICENSE
     └── README.md
+    
