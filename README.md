@@ -8,7 +8,7 @@ This repository is open-source and applicable to driverless vehicles.
 
 ### Tutorial
 
-### Folder Structure
+### File Structure
 
     .
     └── src                     # Source files
