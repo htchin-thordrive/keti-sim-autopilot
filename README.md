@@ -7,5 +7,7 @@ This repository is open-source and applicable to driverless vehicles.
 ### Tutorial
 
 ### Folder Structure
+
     .
+    └── LICENSE
     └── README.md
