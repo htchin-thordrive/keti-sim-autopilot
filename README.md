@@ -3,6 +3,7 @@
 This repository is open-source and applicable to driverless vehicles.
 
 ### System Requirements
+* Ubuntu 16.04
 
 ### 3rd Party Libraries
 
