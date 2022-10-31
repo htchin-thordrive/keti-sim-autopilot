@@ -12,7 +12,7 @@ This repository is open-source and applicable to driverless vehicles.
 
     .
     ├── src                     # Source files
-    │   └── main.py
+    │   └── main.py             # main file
     ├── LICENSE
     └── README.md
     
